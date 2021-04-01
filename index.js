@@ -123,6 +123,8 @@ function handleRequest (request) {
       </p>
       <p>
         <a href="/sourceCode">/source code</a> - responds with  source code to the request.
+        
+        <a href="https://github.com/baboon-king/deno-deploy-demo-1/blob/main/index.js">code link</a>
       </p>
     </body>`,
     {
